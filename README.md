@@ -23,10 +23,10 @@
 ---
 
 ## 🚀 Featured Projects
-- [📈 AI Voice Doctor]([https://github.com/shahzaibkhan12345/stock-price-prediction](https://github.com/shahzaibkhan12345/Generative_AI_Projects/tree/main/AI_Voice_Doctor))    
+- [📈 AI Voice Doctor](https://github.com/shahzaibkhan12345/Generative_AI_Projects/tree/main/AI_Voice_Doctor)    
   An interactive AI-powered medical consultation system that combines computer vision, speech recognition, and text-to-speech capabilities to provide a simulated doctor-patient interaction experience.
 
-- [😴 Sleep Pattern Analysis](https://github.com/shahzaibkhan12345/sleep-analysis)  
+- [😴 Sleep Pattern Analysis](http://github.com/shahzaibkhan12345/ITSOLERA_Internship_Projects/tree/main/Sleep%20Pattern%20Analysis%20and%20Quality%20Prediction%20Using%20Ambient%20Mobile%20Sensor%20Data)  
   Using mobile sensor data to predict sleep quality and efficiency.  
 
 - [🚀 AI Content Crew ](https://github.com/shahzaibkhan12345/Gen-Ai-projects/tree/main/AI-News-writer)  
