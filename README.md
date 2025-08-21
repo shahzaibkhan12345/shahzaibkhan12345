@@ -23,14 +23,14 @@
 ---
 
 ## 🚀 Featured Projects
-- [📈 Stock Price Prediction using Transformers](https://github.com/shahzaibkhan12345/stock-price-prediction)  
-  Predicting stock movements with a custom Transformer architecture in PyTorch.  
+- [📈 AI Voice Doctor]([https://github.com/shahzaibkhan12345/stock-price-prediction](https://github.com/shahzaibkhan12345/Generative_AI_Projects/tree/main/AI_Voice_Doctor))    
+  An interactive AI-powered medical consultation system that combines computer vision, speech recognition, and text-to-speech capabilities to provide a simulated doctor-patient interaction experience.
 
 - [😴 Sleep Pattern Analysis](https://github.com/shahzaibkhan12345/sleep-analysis)  
   Using mobile sensor data to predict sleep quality and efficiency.  
 
-- [📝 MiniLang Compiler](https://github.com/shahzaibkhan12345/minilang-compiler)  
-  A custom compiler built in Python supporting loops, functions, and error handling.  
+- [🚀 AI Content Crew ](https://github.com/shahzaibkhan12345/Gen-Ai-projects/tree/main/AI-News-writer)  
+  A multi-agent system for automated research, writing, and editing of technical content.
 
 ---
 
